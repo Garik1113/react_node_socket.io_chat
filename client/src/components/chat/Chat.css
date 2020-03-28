@@ -1,0 +1,58 @@
+/* InforBar  */
+.infoBar {
+  max-width: 500px;
+  padding: 0.2rem;
+  background: rgb(4, 138, 111);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  margin-top: 100px;
+}
+
+/* InforBar  END*/
+
+/* Messages */
+.messages-wrapper {
+  max-width: 500px;
+  padding: 0.2rem;
+  max-height: 400px;
+  margin-bottom: 0;
+  margin: auto;
+  overflow: auto;
+}
+.messageItem {
+  display: flex;
+  align-items: center;
+  max-width: 500px;
+  padding: 0.2rem;
+  background: cadetblue;
+  margin: 5px auto;
+  border-radius: 5px;
+}
+
+.userName {
+  font-size: 17px;
+  color: blue;
+}
+.userMsg {
+  margin-left: 5px;
+  color: #ffffff;
+}
+
+/* Messages END*/
+
+/* messages Input */
+.messageInput {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+}
+
+.sendInput {
+  height: 40px;
+}
+.sendBtn {
+  height: 40px;
+}
+/* messages Input END*/

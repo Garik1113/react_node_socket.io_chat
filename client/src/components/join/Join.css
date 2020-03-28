@@ -1,0 +1,15 @@
+.join-form {
+  width: 400px;
+  background: #ffffff;
+  margin: 100px auto;
+  box-shadow: 10px 15px 10px 5px;
+  text-align: center;
+  padding: 2rem;
+}
+.join-input {
+  font-size: 17px;
+  color: #000000;
+}
+.join-input::placeholder {
+  color: #000000;
+}
